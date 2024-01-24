@@ -5,8 +5,6 @@ In this Project, I'm going to show you how we can build rich text editor using R
 This project is done using below npm package.
 https://www.npmjs.com/package/react-draft-wysiwyg
 
-Watch Video Tutorial here!
-https://youtu.be/PDdZB83_Nrs
 
 
 
